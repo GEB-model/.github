@@ -1,4 +1,4 @@
-This organization hosts all repositories for the Geographical, Environmental and Behavioural (GEB) model. List of repositories:
+This page hosts all repositories for the Geographical, Environmental and Behavioural (GEB) model. List of repositories:
 
 - [GEB](https://github.com/GEB-model/GEB) hosts the main model
 - [ABCWatM](https://github.com/GEB-model/ABCWatM) is the adapted version of [CWatM](https://github.com/iiasa/CWatM)
